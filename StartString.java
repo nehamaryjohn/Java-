@@ -2,7 +2,7 @@ class StartString
 {
     public static void main(String[] args)
     {
-        String str = "Good morining";
+        String str = "Good morning";
         System.out.println(str);
 
         System.out.println("To uppercase:"+str.toUpperCase());
